@@ -6,7 +6,7 @@ Run Powershell scripts using a cron job in a docker container.
 
 To build:
 
-    docker build . pscron
+    docker build . -t pscron
 
 To start:
 
